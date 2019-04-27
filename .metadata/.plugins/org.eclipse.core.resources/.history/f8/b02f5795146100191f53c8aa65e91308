@@ -1,0 +1,14 @@
+package com.java.arrayDemo;
+
+public class TwoDArray {
+
+	public static void main(String[] args) {
+
+		for(int i = 1; i<3 ; i++){
+			for(int j=i++; j<6;j++){
+				for(int k=j++;k<9;k++){
+					System.out.println("Enter the value"+i);
+				}
+			}
+		}
+	

@@ -1,0 +1,23 @@
+package com.java.arrayDemo;
+
+public class TwoDArray {
+
+	public static void main(String[] args) {
+
+		int[] a= {10,11,12,13,11};
+		int[] a1,b1[];
+		int []a2,b2[];
+		int a3[],b[];
+		
+//		for(int i = 1; i<3 ; i++){
+//			System.out.println("enter the value"+i);
+//			for(int j=i++; j<6;j++){
+//				System.out.println("enter th value"+j);
+//				for(int k=j++;k<9;k++){
+//					System.out.println("Enter the value"+k);
+//				}
+//			}
+//		}
+	}
+	
+}

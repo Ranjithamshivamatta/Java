@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Welcome to login page</title>
+</head>
+<body bgcolor="Yellow">
+	<form>
+		loginName: <input type="text" name="loginname"><br>
+		loginPassword:<input type="password" name="password"><br>
+		submit:<input type="submit" name="submit">
+	</form>
+</body>
+</html>

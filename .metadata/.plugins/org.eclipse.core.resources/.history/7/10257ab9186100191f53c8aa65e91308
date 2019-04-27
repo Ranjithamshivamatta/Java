@@ -1,0 +1,14 @@
+package com.java.arrayDemo;
+
+public class TwoDArray {
+
+	public static void main(String[] args) {
+
+		int[][] arr = new int[5][5];
+		arr[0][0] = 10;
+		arr[2][3] = 55;
+		
+		System.out.println(arr[0][0]);
+	}
+
+}

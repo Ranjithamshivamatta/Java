@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Welcome to login page</title>
+</head>
+<form action="fs" method="post">
+	userName: <input type="text" name="userName" /> 
+	<br> 
+	Email: <input type="email" name="Email" />
+	password: <input
+		type="password" name="Password" /> <br> submit: <input
+		type="submit" value="Submit" />
+</form>
+<body>
+
+</body>
+</html>

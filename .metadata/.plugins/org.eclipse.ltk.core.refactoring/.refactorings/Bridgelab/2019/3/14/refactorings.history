@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Bridgelab/src/com/bridgelabz/util/UnorderedList.java&apos; to &apos;UnorderedListQueue.java&apos;" description="Rename resource &apos;UnorderedList.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/bridgelabz/util/UnorderedList.java" name="UnorderedListQueue.java" stamp="1554007101335" updateReferences="true"/>
+</session>

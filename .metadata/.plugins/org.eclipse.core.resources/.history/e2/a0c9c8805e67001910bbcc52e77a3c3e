@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form method="post" action="Register">
+				<br /> USERNAME:<input type="text" name="USERNAME" /><br />
+		<br /> EMAIL:<input type="text" name="EMAIL" /><br />
+		<br /> PASSWORD:<input type="password" name="PASSWORD" /><br />
+		<br /> <input type="submit" value="Register" /><br />
+		<br /> <a href="Login.html">Register</a>
+	</form>
+</body>
+</html>

@@ -1,0 +1,10 @@
+127.0.0.1 - - [27/Apr/2019:09:42:35 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [27/Apr/2019:09:42:38 +0530] "GET /LoginRegistration1/ HTTP/1.1" 200 402
+0:0:0:0:0:0:0:1 - - [27/Apr/2019:09:44:05 +0530] "POST /LoginRegistration1/LoginController HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [27/Apr/2019:09:44:06 +0530] "GET /LoginRegistration1/Welcome.jsp HTTP/1.1" 200 423
+0:0:0:0:0:0:0:1 - - [27/Apr/2019:09:48:08 +0530] "GET /LoginRegistration1/ HTTP/1.1" 200 402
+0:0:0:0:0:0:0:1 - - [27/Apr/2019:09:48:25 +0530] "POST /LoginRegistration1/LoginController HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [27/Apr/2019:09:48:25 +0530] "GET /LoginRegistration1/Welcome.jsp HTTP/1.1" 200 423
+0:0:0:0:0:0:0:1 - - [27/Apr/2019:09:48:29 +0530] "GET /LoginRegistration1/Welcome.jsp HTTP/1.1" 200 423
+0:0:0:0:0:0:0:1 - - [27/Apr/2019:09:48:50 +0530] "GET /LoginRegistration1/Welcome.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [27/Apr/2019:09:48:50 +0530] "GET /LoginRegistration1/Login.jsp HTTP/1.1" 200 402

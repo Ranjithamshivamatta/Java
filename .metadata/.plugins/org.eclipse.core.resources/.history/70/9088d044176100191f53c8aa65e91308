@@ -1,0 +1,25 @@
+package com.java.arrayDemo;
+
+public class TwoDArray {
+
+	public static void main(String[] args) {
+
+		for(int i = 0 ; i < 3 ; i++){
+			for(int j = 0 ; j < i ; j++){
+				System.out.print(i+" "+j);
+			}
+
+		}
+
+		//		for(int i = 1; i<3 ; i++){
+		//			System.out.println("enter the value"+i);
+		//			for(int j=i++; j<6;j++){
+		//				System.out.println("enter th value"+j);
+		//				for(int k=j++;k<9;k++){
+		//					System.out.println("Enter the value"+k);
+		//				}
+		//			}
+		//		}
+	}
+
+}

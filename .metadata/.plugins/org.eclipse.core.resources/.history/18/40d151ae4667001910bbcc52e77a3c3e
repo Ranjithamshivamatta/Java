@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Welcome to login page</title>
+</head>
+
+<body>
+
+<form action="LoginRegister" method="POST">
+	USERNAME: <input type="text" name="USERNAME" /> <br> 
+	EMAIL: <input type="EMAIL" name="EMAIL" /><br>
+	PASSWORD: <input type="PASSWORD" name="PASSWORD" /> <br>
+	 <input type="submit" value="LoginRegister" />
+</form>
+</body>
+</html>
