@@ -15,20 +15,11 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-/**
- * Servlet implementation class LogicController
- */
-
 public class LoginController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
-	/**
-	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse
-	 *      response)
-	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
-		// TODO Auto-generated method stub
 		response.setContentType("text/html; charset=UTF-8");
 
 		String name = request.getParameter("name");
@@ -46,20 +37,20 @@ public class LoginController extends HttpServlet {
 			stmt.setString(2, password);
 			rs = stmt.executeQuery();
 			// // Creating two cookies
-			// Cookie c1 = new Cookie("name", name);
-			// Cookie c2 = new Cookie("password", password);
+			// Cookie nameCookie = new Cookie("name", name);
+			// Cookie passwordCookie = new Cookie("password", password);
 			// // Adding the cookies to response header
-			// response.addCookie(c1);
-			// response.addCookie(c2);
+			// response.addCookie(nameCookie);
+			// response.addCookie(passwordCookie);
 			// // Reading cookies
-			// Cookie c[] = request.getCookies();
+			// Cookie cookieArray[] = request.getCookies();
 			// // Displaying User name value from cookie
-			// out.print("Name: " + c[0].getValue());
+			// out.print("Name: " + cookieArray[0].getValue());
 			// // Displaying user password value from cookie
-			// out.print("Password: " + c[1].getValue());
+			// out.print("Password: " + cookieArray[1].getValue());
 
 			if (rs.next()) {
-				out.print("welcom********");
+				out.print("*******************welcom to Bridgelab********");
 				// get the old session and invalidate
 
 				HttpSession oldSession = request.getSession(false);
