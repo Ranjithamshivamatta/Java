@@ -57,6 +57,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.bridgelabzz.springhibernate"/>
 			<item value="com.programss.Hello"/>
 			<item value="com.bridgelabz.hibernate.SpringHibernateExample"/>
 			<item value="com.bridgelabs.HelloDemo"/>
@@ -66,6 +67,7 @@
 			<item value="com.program.HelloWorld"/>
 		</list>
 		<list key="groupId">
+			<item value="com.bridgelabzz"/>
 			<item value="com.programss"/>
 			<item value="com.bridgelabz.hibernate"/>
 			<item value="com.bridgelabs"/>
@@ -73,6 +75,7 @@
 			<item value="com.program"/>
 		</list>
 		<list key="artifactId">
+			<item value="springhibernate"/>
 			<item value="Hello"/>
 			<item value="SpringHibernateExample"/>
 			<item value="HelloDemo"/>

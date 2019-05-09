@@ -7,6 +7,19 @@
 		<item value="433" key="DIALOG_X_ORIGIN"/>
 		<item value="113" key="DIALOG_Y_ORIGIN"/>
 	</section>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="E:\SpringMVCHibernateCRUDExample-master"/>
+			<item value="E:\Servlet-Demo-master\ServletCRUD"/>
+			<item value="C:\Users\Admin894\Desktop\SpringD-master"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
 	<section name="ResourceNavigator">
 		<item value="Aggregate for window 1534652849690" key="ResourceWorkingSetFilter.STORE_WORKING_SET"/>
 		<item value="1" key="ResourceViewer.STORE_SORT_TYPE"/>

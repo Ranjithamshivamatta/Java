@@ -1,0 +1,11 @@
+127.0.0.1 - - [07/May/2019:12:49:26 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [07/May/2019:12:49:31 +0530] "GET /SpringMvcUser/ HTTP/1.1" 200 375
+0:0:0:0:0:0:0:1 - - [07/May/2019:12:49:43 +0530] "GET /SpringMvcUser/login HTTP/1.1" 200 993
+127.0.0.1 - - [07/May/2019:13:08:20 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [07/May/2019:13:08:35 +0530] "GET /SpringMvcUser/login HTTP/1.1" 200 993
+0:0:0:0:0:0:0:1 - - [07/May/2019:13:08:46 +0530] "POST /SpringMvcUser/loginProcess HTTP/1.1" 200 392
+0:0:0:0:0:0:0:1 - - [07/May/2019:13:08:49 +0530] "GET /SpringMvcUser/home.jsp HTTP/1.1" 200 375
+0:0:0:0:0:0:0:1 - - [07/May/2019:13:08:52 +0530] "GET /SpringMvcUser/register HTTP/1.1" 200 1551
+0:0:0:0:0:0:0:1 - - [07/May/2019:13:11:42 +0530] "POST /SpringMvcUser/registerProcess HTTP/1.1" 200 396
+0:0:0:0:0:0:0:1 - - [07/May/2019:13:11:53 +0530] "GET /SpringMvcUser/home.jsp HTTP/1.1" 200 375
+0:0:0:0:0:0:0:1 - - [07/May/2019:13:12:11 +0530] "GET /SpringMvcUser/register HTTP/1.1" 200 1551
